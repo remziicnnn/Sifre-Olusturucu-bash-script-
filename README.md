@@ -26,5 +26,5 @@ Bu proje, Linux ortamında çalışabilen **Bash ile Parola Üretici** scriptini
 chmod +x sıfre_olusturucu.sh
 Sonra çalıştır:
 
-bash
+
 ./sıfre_olusturucu.sh
