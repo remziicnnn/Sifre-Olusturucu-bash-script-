@@ -24,7 +24,9 @@ Bu proje, Linux ortamında çalışabilen **Bash ile Parola Üretici** scriptini
 Önce scripti çalıştırılabilir yap:
 ```bash
 chmod +x sıfre_olusturucu.sh
+---
+
 Sonra çalıştır:
 
-
+```bash
 ./sıfre_olusturucu.sh
